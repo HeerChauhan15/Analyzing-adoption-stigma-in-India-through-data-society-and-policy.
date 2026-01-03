@@ -166,3 +166,4 @@ HSNC University, Mumbai
 
 ## 🏷️ Keywords
 Adoption Analytics · Social Stigma · Gender Bias · PCOS · Machine Learning · Public Perception · India
+[Heer_blackbook.pdf](https://github.com/user-attachments/files/24414732/Heer_blackbook.pdf)
