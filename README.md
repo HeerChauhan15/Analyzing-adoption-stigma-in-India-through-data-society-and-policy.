@@ -164,11 +164,5 @@ HSNC University, Mumbai
 
 ---
 
-## 🏫 Academic Context
-Submitted as part of the **Semester V Research Project (2025–2026)**  
-Under the guidance of **Prof. Anjali Sutar**
-
----
-
 ## 🏷️ Keywords
 Adoption Analytics · Social Stigma · Gender Bias · PCOS · Machine Learning · Public Perception · India
